@@ -1,4 +1,8 @@
 This is a fork from Angeliki Mourgela's hearing aid simulator.
+We recompiled the VST and saved versions for Windows and MacOS. 
+If you experience issues with any version, please open an issue indicating the operation system you are using.
+
+
 
 
 # hearinglosssimulationplugin
