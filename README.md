@@ -1,3 +1,6 @@
+This is a fork from Angeliki Mourgela's hearing aid simulator.
+
+
 # hearinglosssimulationplugin
 Thank you for downloading the Hearing Loss Simulation plugin! 
 
